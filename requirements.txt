@@ -1,0 +1,9 @@
+#pandas==2.0.1
+numpy==1.21
+#matplotlib==3.7.1
+#seaborn==0.12.2
+scikit-learn==1.0.2
+uvicorn
+fastapi==0.70.1
+#nest-asyncio==1.5.4
+joblib
